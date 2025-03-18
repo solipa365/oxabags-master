@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.oxabags.com/
+
+# Sitemaps
+Sitemap: https://www.oxabags.com/sitemap.xml
